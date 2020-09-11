@@ -1,0 +1,7 @@
+POSTGRESS_USERNAME=udagramdev
+POSTGRESS_PASSWORD=udagramdev
+POSTGRESS_DATABASE=udagramdev
+POSTGRESS_HOST=udagram.cl2xhbacakjh.us-east-2.rds.amazonaws.com
+AWS_REGION=s-east-2
+AWS_PROFILE=default
+AWS_MEDIA_BUCKET=udagram-bruning-dev
