@@ -1,4 +1,4 @@
-* link: http://heliton-image-filter-starter-code.us-east-2.elasticbeanstalk.com/
+* link: http://heliton-image-filter-starter-code.us-east-2.elasticbeanstalk.com/filteredimage
 
 # Udagram Image Filtering Microservice
 
